@@ -1,0 +1,16 @@
+{
+  "Configuration": {
+    "DatabaseName": "App-DockerWmobile",
+    "DatabasePassword": "12345",
+    "DatabaseType": "POSTGRESQL",
+    "DatabaseHost": "localhost:5432",
+    "DatabaseUserName": "mendixUSER",
+    "DatabaseUseIntegratedSecurity": "False",
+    "ApplicationRootUrl": "http://localhost:8085/",
+    "ScheduledEventExecution": "None"
+  },
+  "Constants": {
+    "NanoflowCommons.Nanoflow_Commons_Version": "2.1.0"
+  },
+  "AdminPassword": "Password12345678910!"
+}
